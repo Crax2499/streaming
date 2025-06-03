@@ -15,80 +15,74 @@
   PLUGINS DE CSS
   ======================================-->
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="public/plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="/public/plugins/fontawesome-free/css/all.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="public/dist/css/adminlte.css">
+  <link rel="stylesheet" href="/public/dist/css/adminlte.css">
   <!-- icheck bootstrap 
   <link rel="stylesheet" href="vistas/plugins/icheck-bootstrap/icheck-bootstrap.min.css">-->
   <!-- DataTables -->
-  <link rel="stylesheet" href="public/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
-  <link rel="stylesheet" href="public/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
-  <link rel="stylesheet" href="public/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
+  <link rel="stylesheet" href="/public/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+  <link rel="stylesheet" href="/public/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+  <link rel="stylesheet" href="/public/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
   <!-- Daterange picker -->
-  <link rel="stylesheet" href="public/plugins/bootstrap-daterangepicker/daterangepicker.css">
+  <link rel="stylesheet" href="/public/plugins/bootstrap-daterangepicker/daterangepicker.css">
   <!-- Daterange picker bootstrap -->
-  <link rel="stylesheet" href="public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css">
+  <link rel="stylesheet" href="/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css">
   <!-- iCheck for checkboxes and radio inputs -->
-  <link rel="stylesheet" href="public/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+  <link rel="stylesheet" href="/public/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
     <!-- Select2 -->
-  <link rel="stylesheet" href="public/plugins/select2/css/select2.min.css">
-  <link rel="stylesheet" href="public/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css">
+  <link rel="stylesheet" href="/public/plugins/select2/css/select2.min.css">
+  <link rel="stylesheet" href="/public/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css">
   <!-- Morris chart -->
-  <link rel="stylesheet" href="public/plugins/morris.js/morris.css">
-    <!-- iCheck for checkboxes and radio inputs -->
-  <link rel="stylesheet" href="public/dist/plugins/iCheck/all.css">
+  <link rel="stylesheet" href="/public/plugins/morris.js/morris.css">
   <!-- summernote -->
-  <link rel="stylesheet" href="public/plugins/summernote/summernote-bs4.min.css">
+  <link rel="stylesheet" href="/public/plugins/summernote/summernote-bs4.min.css">
 
   <!--=====================================
   PLUGINS DE JAVASCRIPT
   ======================================-->
   <!-- jQuery -->
-  <script src="public/plugins/jquery/jquery.min.js"></script>
+  <script src="/public/plugins/jquery/jquery.min.js"></script>
   <!-- Bootstrap 4 -->
-  <script src="public/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/public/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
   <!-- AdminLTE App -->
-  <script src="public/dist/js/adminlte.min.js"></script>
+  <script src="/public/dist/js/adminlte.min.js"></script>
   <!-- AdminLTE for demo purposes -->
-  <script src="public/dist/js/demo.js"></script>
+  <script src="/public/dist/js/demo.js"></script>
   <!-- SweetAlert2 -->
-  <script src="public/plugins/sweetalert2a/sweetalert2.all.js"></script>
+  <script src="/public/plugins/sweetalert2a/sweetalert2.all.js"></script>
   <!-- DataTables  & Plugins -->
-  <script src="public/plugins/datatables/jquery.dataTables.min.js"></script>
-  <script src="public/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
-  <script src="public/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
-  <script src="public/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
-  <script src="public/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
-  <script src="public/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
-  <script src="public/plugins/jszip/jszip.min.js"></script>
-  <script src="public/plugins/pdfmake/pdfmake.min.js"></script>
-  <script src="public/plugins/pdfmake/vfs_fonts.js"></script>
-  <script src="public/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
-  <script src="public/plugins/datatables-buttons/js/buttons.print.min.js"></script>
-  <script src="public/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
+  <script src="/public/plugins/datatables/jquery.dataTables.min.js"></script>
+  <script src="/public/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+  <script src="/public/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+  <script src="/public/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+  <script src="/public/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
+  <script src="/public/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+  <script src="/public/plugins/jszip/jszip.min.js"></script>
+  <script src="/public/plugins/pdfmake/pdfmake.min.js"></script>
+  <script src="/public/plugins/pdfmake/vfs_fonts.js"></script>
+  <script src="/public/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
+  <script src="/public/plugins/datatables-buttons/js/buttons.print.min.js"></script>
+  <script src="/public/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
   <!-- InputMask -->
-  <script src="public/plugins/moment/moment.min.js"></script>
-  <script src="public/plugins/inputmask/jquery.inputmask.min.js"></script>
+  <script src="/public/plugins/moment/moment.min.js"></script>
+  <script src="/public/plugins/inputmask/jquery.inputmask.min.js"></script>
   <!-- Select2 -->
-  <script src="public/plugins/select2/js/select2.full.min.js"></script>
+  <script src="/public/plugins/select2/js/select2.full.min.js"></script>
   <!-- date-range-picker -->
-  <script src="public/plugins/bootstrap-daterangepicker/daterangepicker.js"></script>
+  <script src="/public/plugins/bootstrap-daterangepicker/daterangepicker.js"></script>
   <!-- daterangepicker http://www.daterangepicker.com/-->
-  <script src="public/plugins/moment/min/moment.min.js"></script>
-  <script src="public/plugins/bootstrap-daterangepicker/daterangepicker.js"></script>
+  <script src="/public/plugins/moment/min/moment.min.js"></script>
+  <script src="/public/plugins/bootstrap-daterangepicker/daterangepicker.js"></script>
   <!-- bootstrap datepicker -->
-  <script src="public/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
+  <script src="/public/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
   <!-- jQuery Number -->
-  <script src="public/plugins/jqueryNumber/jquerynumber.min.js"></script>
+  <script src="/public/plugins/jqueryNumber/jquerynumber.min.js"></script>
   <!-- Morris.js charts http://morrisjs.github.io/morris.js/-->
-  <script src="public/plugins/raphael/raphael.min.js"></script>
-  <script src="public/plugins/morris.js/morris.min.js"></script>
-  <!-- ChartJS http://www.chartjs.org/-->
-  <script src="public/plugins/Chart.js/Chart.js"></script>
-  <!-- iCheck 1.0.1 -->
-  <script src="public/dist/plugins/iCheck/icheck.min.js"></script>
+  <script src="/public/plugins/raphael/raphael.min.js"></script>
+  <script src="/public/plugins/morris.js/morris.min.js"></script>
   <!-- Summernote -->
-  <script src="public/plugins/summernote/summernote-bs4.min.js"></script>
+  <script src="/public/plugins/summernote/summernote-bs4.min.js"></script>
 </head>
 
 <?php
@@ -156,20 +150,20 @@
   ?>
 </div>
 <!-- ./wrapper -->
-  <script src="public/js/plantilla.js"></script>
-  <script src="public/js/usuarios.js"></script>
-  <script src="public/js/streaming.js"></script>
-  <script src="public/js/cuentas.js"></script>
-  <script src="public/js/cuentacompleta.js"></script>
-  <script src="public/js/pantallas.js"></script>
-  <script src="public/js/combo.js"></script>
-  <script src="public/js/revendedor.js"></script>
-  <script src="public/js/reportecompleta.js"></script>
-  <script src="public/js/reportepantalla.js"></script>
-  <script src="public/js/reportecombo.js"></script>
-  <script src="public/js/reporterevendedor.js"></script>
-  <script src="public/js/filtro.js"></script>
-  <script src="public/js/licencia.js"></script>
-  <script src="public/js/anexo.js"></script>
+  <script src="/public/js/plantilla.js"></script>
+  <script src="/public/js/usuarios.js"></script>
+  <script src="/public/js/streaming.js"></script>
+  <script src="/public/js/cuentas.js"></script>
+  <script src="/public/js/cuentacompleta.js"></script>
+  <script src="/public/js/pantallas.js"></script>
+  <script src="/public/js/combo.js"></script>
+  <script src="/public/js/revendedor.js"></script>
+  <script src="/public/js/reportecompleta.js"></script>
+  <script src="/public/js/reportepantalla.js"></script>
+  <script src="/public/js/reportecombo.js"></script>
+  <script src="/public/js/reporterevendedor.js"></script>
+  <script src="/public/js/filtro.js"></script>
+  <script src="/public/js/licencia.js"></script>
+  <script src=/public/js/anexo.js></script>
 </body>
 </html>
